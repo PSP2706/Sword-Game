@@ -17,9 +17,3 @@ SWORD is an interactive word game inspired by **Wordle**, specifically designed 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, jQuery, Bootstrap
-
-## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/sword.git
